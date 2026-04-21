@@ -97,3 +97,4 @@ margin-top: 40px;
 <h2 style="text-align:center;">Core Principles</h2>
 <div class="grid">
 <div class="card">
+<h3>Semantic Tags</h3>
