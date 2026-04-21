@@ -29,3 +29,4 @@ text-decoration: none;
 font-weight: bold;
 }
         .hero {
+background: #ecf0f1;
