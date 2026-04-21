@@ -109,3 +109,4 @@ margin-top: 40px;
 <p>Zero external dependencies means lightning-fast load times.</p>
 </div>
 </div>
+</section>
