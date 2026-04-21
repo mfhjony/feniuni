@@ -68,3 +68,4 @@ border-radius: 4px;
 }
         button {
 background: #27ae60;
+color: white;
