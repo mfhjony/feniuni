@@ -63,3 +63,4 @@ margin: 30px auto;
         input, textarea, button {
 margin-bottom: 15px;
 padding: 10px;
+border: 1px solid #ccc;
