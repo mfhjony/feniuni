@@ -83,3 +83,4 @@ margin-top: 40px;
 <header>
 <h1>Code 101 Hub</h1>
 <nav>
+<a href="#home">Home</a>
