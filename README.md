@@ -71,3 +71,4 @@ background: #27ae60;
 color: white;
 }
         footer {
+background: #2c3e50;
