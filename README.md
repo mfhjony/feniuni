@@ -46,3 +46,4 @@ margin-top: 30px;
 }
         .card {
 border: 1px solid #ddd;
+padding: 20px;
