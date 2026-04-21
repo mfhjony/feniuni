@@ -61,3 +61,4 @@ max-width: 500px;
 margin: 30px auto;
 }
         input, textarea, button {
+margin-bottom: 15px;
