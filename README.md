@@ -114,3 +114,4 @@ margin-top: 40px;
 <h2 style="text-align:center;">Get In Touch</h2>
 <form action="#">
 <input type="text" placeholder="Your Name" required>
+<input type="email" placeholder="Your Email" required>
