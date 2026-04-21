@@ -123,3 +123,5 @@ margin-top: 40px;
 <footer>
         <p>&copy; 2026 Gemini Coding Lab. Built with precision.</p>
     </footer>
+</body>
+</html>
