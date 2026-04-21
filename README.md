@@ -78,3 +78,4 @@ padding: 20px 0;
 margin-top: 40px;
 }
     </style>
+</head>
