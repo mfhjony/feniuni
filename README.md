@@ -100,3 +100,4 @@ margin-top: 40px;
 <h3>Semantic Tags</h3>
 <p>Using header, main, and footer for better SEO and accessibility.</p>
                 </div>
+<div class="card">
