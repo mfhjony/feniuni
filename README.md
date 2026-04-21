@@ -88,3 +88,4 @@ margin-top: 40px;
 <a href="#contact">Contact</a>
 </nav>
 </header>
+<section class="hero" id="home">
