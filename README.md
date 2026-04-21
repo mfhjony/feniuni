@@ -115,3 +115,4 @@ margin-top: 40px;
 <form action="#">
 <input type="text" placeholder="Your Name" required>
 <input type="email" placeholder="Your Email" required>
+<textarea rows="4" placeholder="Your Message"></textarea>
