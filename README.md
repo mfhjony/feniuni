@@ -51,3 +51,4 @@ border-radius: 8px;
 transition: transform 0.3s;
 }
         .card:hover {
+transform: translateY(-5px);
