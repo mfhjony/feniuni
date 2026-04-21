@@ -21,3 +21,5 @@ padding: 1rem 0;
 text-align: center;
 position: sticky;
 top: 0;
+}
+        nav a {
