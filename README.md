@@ -48,3 +48,4 @@ margin-top: 30px;
 border: 1px solid #ddd;
 padding: 20px;
 border-radius: 8px;
+transition: transform 0.3s;
