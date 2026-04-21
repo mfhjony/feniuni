@@ -35,3 +35,4 @@ text-align: center;
 }
         .container {
 max-width: 1000px;
+margin: auto;
