@@ -92,3 +92,4 @@ margin-top: 40px;
 <h2>Clean, Semantic, and Responsive</h2>
 <p>This page demonstrates the power of organized HTML and internal CSS.</p>
     </section>
+<main class="container">
