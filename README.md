@@ -24,3 +24,4 @@ top: 0;
 }
         nav a {
 color: white;
+margin: 0 15px;
