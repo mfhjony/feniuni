@@ -89,3 +89,4 @@ margin-top: 40px;
 </nav>
 </header>
 <section class="hero" id="home">
+<h2>Clean, Semantic, and Responsive</h2>
