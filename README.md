@@ -15,3 +15,4 @@ line-height: 1.6;
 color: #333;
 }
         header {
+background: #2c3e50;
