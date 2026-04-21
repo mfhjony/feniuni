@@ -110,3 +110,4 @@ margin-top: 40px;
 </div>
 </div>
 </section>
+<section id="contact">
