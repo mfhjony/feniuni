@@ -17,3 +17,4 @@ color: #333;
         header {
 background: #2c3e50;
 color: white;
+padding: 1rem 0;
