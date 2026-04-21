@@ -37,3 +37,5 @@ text-align: center;
 max-width: 1000px;
 margin: auto;
 padding: 20px;
+}
+        .grid {
