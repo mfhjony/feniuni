@@ -98,3 +98,5 @@ margin-top: 40px;
 <div class="grid">
 <div class="card">
 <h3>Semantic Tags</h3>
+<p>Using header, main, and footer for better SEO and accessibility.</p>
+                </div>
