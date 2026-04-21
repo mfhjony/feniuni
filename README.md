@@ -119,3 +119,4 @@ margin-top: 40px;
 <button type="submit">Send Message</button>
 </form>
 </section>
+</main>
