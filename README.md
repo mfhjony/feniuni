@@ -117,3 +117,4 @@ margin-top: 40px;
 <input type="email" placeholder="Your Email" required>
 <textarea rows="4" placeholder="Your Message"></textarea>
 <button type="submit">Send Message</button>
+</form>
