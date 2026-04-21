@@ -95,3 +95,4 @@ margin-top: 40px;
 <main class="container">
 <section id="features">
 <h2 style="text-align:center;">Core Principles</h2>
+<div class="grid">
