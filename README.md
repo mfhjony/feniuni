@@ -96,3 +96,4 @@ margin-top: 40px;
 <section id="features">
 <h2 style="text-align:center;">Core Principles</h2>
 <div class="grid">
+<div class="card">
