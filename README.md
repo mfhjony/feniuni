@@ -59,3 +59,5 @@ display: flex;
 flex-direction: column;
 max-width: 500px;
 margin: 30px auto;
+}
+        input, textarea, button {
