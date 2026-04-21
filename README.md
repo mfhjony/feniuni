@@ -111,3 +111,4 @@ margin-top: 40px;
 </div>
 </section>
 <section id="contact">
+<h2 style="text-align:center;">Get In Touch</h2>
