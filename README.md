@@ -23,3 +23,4 @@ position: sticky;
 top: 0;
 }
         nav a {
+color: white;
