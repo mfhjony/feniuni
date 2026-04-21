@@ -112,3 +112,4 @@ margin-top: 40px;
 </section>
 <section id="contact">
 <h2 style="text-align:center;">Get In Touch</h2>
+<form action="#">
