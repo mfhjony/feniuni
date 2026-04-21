@@ -75,3 +75,4 @@ background: #2c3e50;
 color: white;
 text-align: center;
 padding: 20px 0;
+margin-top: 40px;
