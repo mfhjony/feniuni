@@ -113,3 +113,4 @@ margin-top: 40px;
 <section id="contact">
 <h2 style="text-align:center;">Get In Touch</h2>
 <form action="#">
+<input type="text" placeholder="Your Name" required>
