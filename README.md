@@ -101,3 +101,4 @@ margin-top: 40px;
 <p>Using header, main, and footer for better SEO and accessibility.</p>
                 </div>
 <div class="card">
+<h3>Responsive Design</h3>
