@@ -104,3 +104,4 @@ margin-top: 40px;
 <h3>Responsive Design</h3>
 <p>Utilizing CSS Grid to ensure the layout works on all devices.</p>
 </div>
+<div class="card">
