@@ -105,3 +105,4 @@ margin-top: 40px;
 <p>Utilizing CSS Grid to ensure the layout works on all devices.</p>
 </div>
 <div class="card">
+<h3>Performance</h3>
