@@ -9,3 +9,4 @@ body
 <title>The 101 Project</title>
 <style>
 body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
