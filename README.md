@@ -106,3 +106,4 @@ margin-top: 40px;
 </div>
 <div class="card">
 <h3>Performance</h3>
+<p>Zero external dependencies means lightning-fast load times.</p>
