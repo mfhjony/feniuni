@@ -108,3 +108,4 @@ margin-top: 40px;
 <h3>Performance</h3>
 <p>Zero external dependencies means lightning-fast load times.</p>
 </div>
+</div>
