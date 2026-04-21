@@ -32,3 +32,5 @@ font-weight: bold;
 background: #ecf0f1;
 padding: 60px 20px;
 text-align: center;
+}
+        .container {
