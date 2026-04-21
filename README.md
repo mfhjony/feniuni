@@ -76,3 +76,5 @@ color: white;
 text-align: center;
 padding: 20px 0;
 margin-top: 40px;
+}
+    </style>
