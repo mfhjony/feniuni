@@ -93,3 +93,4 @@ margin-top: 40px;
 <p>This page demonstrates the power of organized HTML and internal CSS.</p>
     </section>
 <main class="container">
+<section id="features">
