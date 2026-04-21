@@ -26,3 +26,4 @@ top: 0;
 color: white;
 margin: 0 15px;
 text-decoration: none;
+font-weight: bold;
