@@ -39,3 +39,4 @@ margin: auto;
 padding: 20px;
 }
         .grid {
+display: grid;
